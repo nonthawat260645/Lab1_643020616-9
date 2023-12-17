@@ -1,2 +1,3 @@
 "Author: ตามด้วยชื่อเเละนามสกุลของนักศึกษา"
 "My personal quote: งานไม่ทำ รำอย่างเดียว"
+"Don't wait for something outside of yourself to make your dream comes true."
